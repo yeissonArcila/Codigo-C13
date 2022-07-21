@@ -1,0 +1,66 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: url(../recursos/Captura\ de\ pantalla\ \(46\).png);
+    background-repeat: no-repeat;
+    top: center;
+    height: 100vh;
+    
+}
+
+    
+
+.logo-login{
+    width: 320px;
+    height: 420px;
+    background:linear-gradient(#0dccac, #1655b2) ;
+    color: white;
+    left: 35%;
+    position: absolute;
+    transform: translate(50%, 50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 30px;
+}
+.logo-login .imagen{
+    width: 210px;
+    height: 50px;
+    position: absolute;
+    top: 7px;
+}
+.logo-login label{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+}
+.logo-login h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+.logo-login input{
+    width: 100%;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 1px solid #0dccac;
+    outline: none;
+    height: 40px;
+    font-size: 13px;
+    border-radius: 20px;
+}
+.logo-login .boton-inicio{
+    border: none;
+    outline: none;
+   background: #ffcb05;
+   color: white;
+   font-size: 18px;
+}
+a{
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
