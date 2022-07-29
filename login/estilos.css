@@ -3,7 +3,8 @@ body{
     margin: 0;
     padding: 0;
     height: 100%;
-    background: url(../recursos/Captura\ de\ pantalla\ \(46\).png);
+    background: url(../RECURSOS/Captura\ de\ pantalla\ 2022-07-29\ 074652.png);
+    backdrop-filter: blur(10px);
     background-repeat: no-repeat;
     top: center;
     height: 100vh;
